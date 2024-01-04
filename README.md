@@ -8,7 +8,7 @@ Una vez que se ha ejecutado el programa, se generará un archivo de registro lla
 
 ## 📋 Requisitos
 - 📋 Java 8 o superior instalado en el sistema.
-- 📦 Archivo JAR del programa "Organizador.jar".
+- 📦 Archivo JAR del programa " JFIFtoJPG.jar".
 
 ## 📝 Instrucciones de uso
 
